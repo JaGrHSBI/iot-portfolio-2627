@@ -2,20 +2,25 @@
 
 ## Who I am
 
-Programming experience? Python, C, C++, R 
-Network experience? I've built an Arduino radio before in a Microcontroller course at work - with an FM chip, no internet-radio.
+Programming experience? Python, C, C++, R  
+Network experience? I've built an Arduino radio before in a Microcontroller course at work - with an FM chip, no internet-radio.  
 Do you know *random word*? No.
 
 ## My pod
 
-[../PreStudy/pictures/mqtt-screenshot.png]
+[My podmate](https://github.com/Svenjjamin/net-iot-hsbi-2026-portfolio)  
+We are Sven and Jan.
 
 ## Pre-study artefact
+
+[PreStudy-artefact](../PreStudy/pictures/mqtt-screenshot.png)
 
 We talked about tracepath and MQTT-screenshots
 I previously didn't know different kinds of IP-addresses exist (IPv4 vs IPv6). Only actually looking at my ipconfig made me think about that. 
 
 ## Study log
+
+
 
 ## Story seeds
 
