@@ -1,14 +1,23 @@
 # Module 1
 
-> **Example module** from the IoT introduction class. Adjust the headings and tasks to match your actual course content.
+## Who I am
 
-> When you start editing this file, remove this description.
->
-> Usually the first things you have to document are some inspirations hinting at what
-> you might be able to build in this class, a personal profile description regarding
-> programming expertise, previous MCU knowledge, creative qualities, and expectations
+Programming experience? Python, C, C++, R 
+Network experience? I've built an Arduino radio before in a Microcontroller course at work - with an FM chip, no internet-radio.
+Do you know *random word*? No.
 
-Module description
+## My pod
+
+[../PreStudy/pictures/mqtt-screenshot.png]
+
+## Pre-study artefact
+
+We talked about tracepath and MQTT-screenshots
+I previously didn't know different kinds of IP-addresses exist (IPv4 vs IPv6). Only actually looking at my ipconfig made me think about that. 
+
+## Study log
+
+## Story seeds
 
 ## Learning Goals
 
